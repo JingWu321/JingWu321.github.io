@@ -19,9 +19,9 @@ Publications
 .
 
 Teaching
-------
+======
 . 
 
 Peer Review
-------
+======
 .
