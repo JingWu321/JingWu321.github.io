@@ -84,7 +84,6 @@ author:
   avatar           : "profile.png"
   bio              : "Ph.D. Candidate"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.au/citations?user=wRWAmm4AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -95,20 +94,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/JingWu321"
+  github           : "JingWu321"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0004-7049-5480"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "JoeyWu321"
   vine             :
   weibo            :
   xing             :
