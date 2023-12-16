@@ -83,9 +83,11 @@ author:
   name             : "Jing Wu"
   avatar           : "profile.png"
   bio              : "Ph.D. Candidate"
+  location         : "Melbourne, VIC, Australia"
+  Affiliation      : "Department of Electrical and Computer Systems Engineering, Monash University"
   employer         :
   googlescholar    : "https://scholar.google.com.au/citations?user=wRWAmm4AAAAJ&hl=en"
-  email            :
+  email            : "jing.wu1@monash.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
