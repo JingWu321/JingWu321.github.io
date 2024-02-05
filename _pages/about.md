@@ -13,12 +13,18 @@ I am currently a third-year Ph.D. student in Engineering at Monash University, A
 News
 ======
 
-🥳 One paper accepted by AAAI'24.
+Will serve as a reviewer for ACM-MM'24.
 
-🥳 One paper accepted by ICSE'24.
+🥳 One paper accepted by AAAI'24.
 
 Selected Publications
 ======
+
+* <a href="https://arxiv.org/pdf/2209.05724.pdf">Scissorhands: Scrub Data Influence via Connection Sensitivity in Networks</a><br>
+    **Jing Wu**, Mehrtash Harandi<br>
+
+* <a href="https://arxiv.org/pdf/2209.05724.pdf">EraseDiff: Erasing Data Influence in Diffusion Models</a><br>
+    **Jing Wu**, Trung Le, Munawar Hayat, Mehrtash Harandi<br>
 
 * <a href="https://arxiv.org/pdf/2209.05724.pdf">Concealing Sensitive Samples against Gradient Leakage in Federated Learning</a><br>
     **Jing Wu**, Munawar Hayat, Mingyi Zhou, Mehrtash Harandi<br>
@@ -31,7 +37,7 @@ Selected Publications
 
 Work Experience
 ======
-* 2024.01 - present: Assistant Lecturer<br>
+* 2024.01 - present: PhD Assistant Lecturer<br>
   <sub>Faculty of Engineering, Monash University, Australia</sub><br>
   
 * 2022.07 - 2023.12: Sessional Teaching Associate<br>
