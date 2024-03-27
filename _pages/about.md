@@ -10,12 +10,6 @@ redirect_from:
 
 I am currently a third-year Ph.D. student in Engineering at Monash University, Australia, where I have the privilege of being mentored by [A/Prof. Mehrtash Harandi](https://sites.google.com/site/mehrtashharandi/) and [Dr. Munawar Hayat](https://mhayat.netlify.app/). My research interests include Trustworthy ML, Machine Unlearning, and Collaborative Learning.
 
-News
-======
-
-Will serve as a reviewer for ACM-MM'24.
-
-🥳 One paper accepted by AAAI'24.
 
 Selected Publications
 ======
@@ -51,4 +45,4 @@ Work Experience
 
 Professional Services
 ======
-Reviewer: ICLR, CVPR, ICCV, ECCV, NeurIPS, ICML, AAAI, TPAMI
+Reviewer: ICLR, CVPR, ICCV, ECCV, NeurIPS, ICML, AAAI, TPAMI, ACM MM
