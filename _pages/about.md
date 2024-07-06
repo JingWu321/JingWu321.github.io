@@ -16,6 +16,7 @@ Selected Publications
 
 * <a href="https://arxiv.org/pdf/2209.05724.pdf">Scissorhands: Scrub Data Influence via Connection Sensitivity in Networks</a><br>
     **Jing Wu**, Mehrtash Harandi<br>
+    ECCV’24 (acceptance rate 27.9%)
 
 * <a href="https://arxiv.org/pdf/2209.05724.pdf">EraseDiff: Erasing Data Influence in Diffusion Models</a><br>
     **Jing Wu**, Trung Le, Munawar Hayat, Mehrtash Harandi<br>
