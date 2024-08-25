@@ -11,7 +11,7 @@ redirect_from:
 I am currently a third-year Ph.D. student in Engineering at Monash University, Australia, where I have the privilege of being mentored by [A/Prof. Mehrtash Harandi](https://sites.google.com/site/mehrtashharandi/) and [Dr. Munawar Hayat](https://mhayat.netlify.app/). My research interests include Trustworthy ML, Machine Unlearning, and Collaborative Learning.
 
 
-Selected Publications
+Selected Publications/Preprint
 ======
 
 * <a href="https://arxiv.org/pdf/2209.05724.pdf">Scissorhands: Scrub Data Influence via Connection Sensitivity in Networks</a><br>
