@@ -14,11 +14,11 @@ I am currently a third-year Ph.D. student in Engineering at Monash University, A
 Selected Publications/Preprint
 ======
 
-* <a href="https://arxiv.org/pdf/2209.05724.pdf">Scissorhands: Scrub Data Influence via Connection Sensitivity in Networks</a><br>
+* <a href="https://arxiv.org/pdf/2401.06187.pdf">Scissorhands: Scrub Data Influence via Connection Sensitivity in Networks</a><br>
     **Jing Wu**, Mehrtash Harandi<br>
     ECCV’24
 
-* <a href="https://arxiv.org/pdf/2209.05724.pdf">EraseDiff: Erasing Data Influence in Diffusion Models</a><br>
+* <a href="https://arxiv.org/pdf/2401.05779.pdf">EraseDiff: Erasing Data Influence in Diffusion Models</a><br>
     **Jing Wu**, Trung Le, Munawar Hayat, Mehrtash Harandi<br>
 
 * <a href="https://arxiv.org/pdf/2209.05724.pdf">Concealing Sensitive Samples against Gradient Leakage in Federated Learning</a><br>
