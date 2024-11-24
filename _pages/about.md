@@ -59,4 +59,4 @@ Teaching
 
 Professional Services
 ======
-Reviewer: ICLR, CVPR, ICCV, ECCV, NeurIPS, ICML, AAAI, TPAMI, ACM MM
+Reviewer: ICLR, CVPR, ICCV, ECCV, NeurIPS, ICML, AAAI, ACM MM, AISTATS, TPAMI
