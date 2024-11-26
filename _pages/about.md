@@ -14,6 +14,9 @@ I am currently a third-year Ph.D. student in Engineering at Monash University, A
 Selected Publications/Preprint
 ======
 
+* <a href="https://arxiv.org/pdf/2411.15537.pdf">MUNBa: Machine Unlearning via Nash Bargaining</a><br>
+    **Jing Wu**, Mehrtash Harandi<br>
+
 * <a href="https://arxiv.org/pdf/2401.06187.pdf">Scissorhands: Scrub Data Influence via Connection Sensitivity in Networks</a><br>
     **Jing Wu**, Mehrtash Harandi<br>
     ECCV’24
