@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year Ph.D. student in Engineering at Monash University, Australia, where I have the privilege of being mentored by [A/Prof. Mehrtash Harandi](https://sites.google.com/site/mehrtashharandi/) and [Dr. Munawar Hayat](https://mhayat.netlify.app/). My research interests include Trustworthy ML, AI security, and Collaborative Learning.
+I am currently a fourth-year Ph.D. student in Engineering at Monash University, Australia, where I have the privilege of being mentored by [A/Prof. Mehrtash Harandi](https://sites.google.com/site/mehrtashharandi/) and [Dr. Munawar Hayat](https://mhayat.netlify.app/). My research interests include Trustworthy ML, AI security, and Collaborative Learning.
 
 
 Selected Publications/Preprint
