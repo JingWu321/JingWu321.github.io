@@ -145,6 +145,38 @@ selected={true},
   selected={true},
 }
 
+@article{wu2021performance,
+  title={Performance evaluation of adversarial attacks: Discrepancies and solutions},
+  author={Wu, Jing and Zhou, Mingyi and Zhu, Ce and Liu, Yipeng and Harandi, Mehrtash and Li, Li},
+  journal={arXiv preprint arXiv:2104.11103},
+  abstract={Recently, adversarial attack methods have been developed to challenge the robustness of machine learning models. However, mainstream evaluation criteria experience limitations, even yielding discrepancies among results under different settings. By examining various attack algorithms, including gradient-based and query-based attacks, we notice the lack of a consensus on a uniform standard for unbiased performance evaluation. Accordingly, we propose a Piece-wise Sampling Curving (PSC) toolkit to effectively address the aforementioned discrepancy, by generating a comprehensive comparison among adversaries in a given range. In addition, the PSC toolkit offers options for balancing the computational cost and evaluation effectiveness. Experimental results demonstrate our PSC toolkit presents comprehensive comparisons of attack algorithms, significantly reducing discrepancies in practice},
+  bibtex_show={true},
+  pdf={Evaluation_attack.pdf},
+  year={2021}
+}
+
+
+@article{zhang2021survey,
+  title={A survey on universal adversarial attack},
+  author={Zhang, Chaoning and Benz, Philipp and Lin, Chenguo and Karjauv, Adil and Wu, Jing and Kweon, In So},
+  journal={Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence.},
+  abstract={The intriguing phenomenon of adversarial examples has attracted significant attention in machine learning and what might be more surprising to the community is the existence of universal adversarial perturbations (UAPs), i.e. a single perturbation to fool the target DNN for most images. With the focus on UAP against deep classifiers, this survey summarizes the recent progress on universal adversarial attacks, discussing the challenges from both the attack and defense sides, as well as the reason for the existence of UAP. We aim to extend this work as a dynamic survey that will regularly update its content to follow new works regarding UAP or universal attack in a wide range of domains, such as image, audio, video, text, etc. Relevant updates will be discussed at: https://bit.ly/2SbQlLG. We welcome authors of future works in this field to contact us for including your new findings.},
+  bibtex_show={true},
+  pdf={Survey_UAP.pdf},
+  year={2021}
+}
+
+@article{wu2020decision,
+  title={Decision-based universal adversarial attack},
+  author={Wu, Jing and Zhou, Mingyi and Liu, Shuaicheng and Liu, Yipeng and Zhu, Ce},
+  journal={arXiv preprint arXiv:2009.07024},
+  abstract={A single perturbation can pose the most natural images to be misclassified by classifiers. In black-box setting, current universal adversarial attack methods utilize substitute models to generate the perturbation, then apply the perturbation to the attacked model. However, this transfer often produces inferior results. In this study, we directly work in the black-box setting to generate the universal adversarial perturbation. Besides, we aim to design an adversary generating a single perturbation having texture like stripes based on orthogonal matrix, as the top convolutional layers are sensitive to stripes. To this end, we propose an efficient Decision-based Universal Attack (DUAttack). With few data, the proposed adversary computes the perturbation based solely on the final inferred labels, but good transferability has been realized not only across models but also span different vision tasks. The effectiveness of DUAttack is validated through comparisons with other state-of-the-art attacks. The efficiency of DUAttack is also demonstrated on real world settings including the Microsoft Azure. In addition, several representative defense methods are struggling with DUAttack, indicating the practicability of the proposed method.},
+  bibtex_show={true},
+  preview={DUAttack.png},
+  pdf={DUAttack.pdf},
+  year={2020},
+}
+
 @INPROCEEDINGS{zhou2020dast,
   author={Zhou<sup>*</sup>, Mingyi and Wu<sup>*</sup>, Jing and Liu, Yipeng and Liu, Shuaicheng and Zhu, Ce},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
