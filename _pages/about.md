@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate, Monash University
+subtitle: Research Fellow, Monash University
 
 profile:
   align: right
@@ -21,6 +21,6 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-I am currently a fourth-year Ph.D. student in Engineering at Monash University, Australia, where I have the privilege of being mentored by [A/Prof. Mehrtash Harandi](https://sites.google.com/site/mehrtashharandi/) and [Dr. Munawar Hayat](https://mhayat.netlify.app/). Before joining Monash University, I was a master's student at UESTC, where I worked with [Prof. Yipeng Liu](https://faculty.uestc.edu.cn/yipengliu/zh_CN/index.htm) and [Prof. Ce Zhu](https://www.avc2-lab.net/~eczhu/). I also interned at Megvii under the mentorship of [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/).
+I am currently a Postodoctoral Research Fellow at Department of Data Science & AI, Faculty of Information Technology, Monash University. I completed my Ph.D. in Engineering at Faculty of Engineering, Monash University, Australia, where I have the privilege of being mentored by [A/Prof. Mehrtash Harandi](https://sites.google.com/site/mehrtashharandi/) and [Dr. Munawar Hayat](https://mhayat.netlify.app/). Before joining Monash University, I was a master's student at UESTC, where I worked with [Prof. Yipeng Liu](https://faculty.uestc.edu.cn/yipengliu/zh_CN/index.htm) and [Prof. Ce Zhu](https://www.avc2-lab.net/~eczhu/). I also interned at Megvii under the mentorship of [Prof. Shuaicheng Liu](http://www.liushuaicheng.org/).
 
 My work mostly contributes to the fields of Trustworthy ML and Responsible AI. My research mainly focuses on the analysis of the vulnerabilities of deep learning models, and developing algorithms for enhancing safety and reliability by defending against attacks and mitigating inappropriate influence in AI systems. My long-term research objective is to make AI systems safe, reliable, and unbias, as AI increasingly becomes a part of our daily lives, its safety and reliability must be paramount considerations prior to deployment.
