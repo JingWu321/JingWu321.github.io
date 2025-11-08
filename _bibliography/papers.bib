@@ -1,30 +1,27 @@
 ---
 ---
 
-@article{wu2024munba,
+@article{diet,
+  title={DIET: Machine Unlearning on a Data-Diet},
+  journal={Proceedings of the AAAI Conference on Artificial Intelligence},
+  author={Kunananthaseelan, Nilakshan, Wu, Jing and Le Trung and Haffari, Gholamreza and Harandi, Mehrtash},
+  year={2026},
+  selected={true},
+  award={Oral}
+}
+
+@inproceedings{wu2024munba,
   title={MUNBa: Machine Unlearning via Nash Bargaining},
   url={https://arxiv.org/abs/2411.15537v2},
   author={Wu, Jing and Harandi, Mehrtash},
-  journal={arXiv preprint arXiv:2411.15537v2},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
   abstract={Machine Unlearning (MU) aims to selectively erase harmful behaviors from models while retaining the overall utility of the model. As a multi-task learning problem, MU involves balancing objectives related to forgetting specific concepts/data and preserving general performance. A naive integration of these forgetting and preserving objectives can lead to gradient conflicts, impeding MU algorithms from reaching optimal solutions. To address the gradient conflict issue, we reformulate MU as a two-player cooperative game, where the two players, namely, the forgetting player and the preservation player, contribute via their gradient proposals to maximize their overall gain. To this end, inspired by the Nash bargaining theory, we derive a closed-form solution to guide the model toward the Pareto front, effectively avoiding the gradient conflicts. Our formulation of MU guarantees an equilibrium solution, where any deviation from the final state would lead to a reduction in the overall objectives for both players, ensuring optimality in each objective. We evaluate our algorithm's effectiveness on a diverse set of tasks across image classification and image generation. Extensive experiments with ResNet, vision-language model CLIP, and text-to-image diffusion models demonstrate that our method outperforms state-of-the-art MU algorithms, achieving superior performance on several benchmarks. For example, in the challenging scenario of sample-wise forgetting, our algorithm approaches the gold standard retrain baseline. Our results also highlight improvements in forgetting precision, preservation of generalization, and robustness against adversarial attacks. },
   bibtex_show={true},
   preview={MUNBa.png},
   pdf={MUNBa.pdf},
   code={https://github.com/JingWu321/MUNBa},
-  year={2024},
+  year={2025}
   selected={true},
-}
-
-@misc{qian2024sun,
-title={{SUN}: Training-free Machine Unlearning via Subspace},
-author={Chengyao Qian and Jing Wu and Trung Le and Dinh Phung and Mehrtash Harandi},
-abstract={Machine Unlearning (MU), a technique to erase undesirable content from AI models, plays an essential role in developing safe and trustworthy AI systems. Despite the success MU achieved, existing MU baselines typically necessitate maintaining the entire dataset for fine-tuning unlearned models. Fine-tuning models and maintaining large datasets are computationally and financially prohibitive. This motivates us to propose a simple yet effective MU approach: \underline{S}ubspace \underline{UN}learning (SUN) as a new fast and effective MU baseline. The proposed method removes the low-dimensional subspaces of undesirable concepts from the space spanned by the weight vectors. This modification makes the model "blind" to the undesirable content to realize unlearning. Notably, SUN can produce the scrubbed model instantly with only a few samples and without additional training.},
-year={2024},
-bibtex_show={true},
-preview={SUN.png},
-pdf={https://openreview.net/forum?id=p7mgNvOD9Q},
-url={https://openreview.net/forum?id=p7mgNvOD9Q},
-selected={true},
 }
 
 @INPROCEEDINGS{wu2024erasediff,
