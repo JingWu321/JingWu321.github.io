@@ -1,0 +1,34 @@
+title = "博客"
+description = "记录一些想法、问题，以及研究和生活里慢慢成形的思考。"
+
+[[posts]]
+slug = "discriminant-math-learning-reflection"
+title = "从判别式开始：对数学学习的反思"
+date = "2026-07-03"
+summary = "从高中解析几何里的两根之差出发，重新理解判别式、对称性与数学教育中被遮住的结构感。"
+tags = ["数学", "教育", "代数"]
+source = "blog/从判别式开始：对数学学习的反思.md"
+
+[[posts]]
+slug = "on-toxic-texts"
+title = "论真正的“毒课文”：当修辞替代了逻辑"
+date = "2026-07-03"
+summary = "比事实错误更隐蔽的，是语文教育中把修辞当作论证、把情绪当作真理的阅读方式。"
+tags = ["教育", "语文", "逻辑"]
+source = "blog/论毒课文.md"
+
+[[posts]]
+slug = "comparative-literature-expedition-33-farewell"
+title = "比较文学的应用：《33号远征队》的码头送别，为什么没有立刻击中我"
+date = "2026-07-05"
+summary = "从《33号远征队》的码头送别出发，比较欧洲远洋叙事和中国古典送别意象如何承载不同的离别经验。"
+tags = ["游戏", "比较文学", "叙事"]
+source = "blog/比较文学的应用——33号远征队码头送别，中西方文学意向区别.md"
+
+[[posts]]
+slug = "first-note"
+title = "第一篇随笔"
+date = "2026-07-03"
+summary = "给这个博客空间留下一段小小的开场。"
+tags = ["随笔", "思考"]
+source = "blog/first-note.md"

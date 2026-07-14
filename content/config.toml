@@ -1,0 +1,62 @@
+[site]
+title = "Jing Wu"
+description = "Associate Professor @Tianjin University."
+favicon = "/robot.svg"
+last_updated = "April 26, 2026"
+
+[author]
+name = "Jing Wu"
+title = "Associate Professor"
+institution = "Tianjin University"
+avatar = "/bio.jpg"
+
+[social]
+# Contact information (leave blank or delete to hide)
+
+email = "wwujing123@gmail.com"
+location = "Tianjin, China"
+google_scholar = "https://scholar.google.com.au/citations?user=wRWAmm4AAAAJ&hl=en"
+orcid = "https://orcid.org/0009-0004-7049-5480"
+github = "https://github.com/JingWu321/"
+# linkedin = "https://linkedin.com"
+
+[features]
+# Show a like button on the about page
+enable_likes = true
+
+# Display all subpages on a single page
+enable_one_page_mode = false
+
+[i18n]
+enabled = true
+locales = ["zh", "en"]
+default_locale = "en"
+# "auto" means the locale will be determined by the browser's language setting, "fixed" means the locale will be fixed to the default locale (but can be switched still, if you want to disable, set "enable=false")
+mode = "auto"
+fixed_locale = "en"
+# If true, PRISM will remember user's language preference in browser's localStorage
+persist = true
+# Show a language switcher on the top right corner
+switcher = true
+
+[i18n.labels]
+zh = "中文"
+en = "English"
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "CV"
+type = "page"
+target = "cv"
+href = "/cv"
